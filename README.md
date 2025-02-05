@@ -23,11 +23,7 @@ This project implements a dual-layer email security system by:
    git clone https://github.com/your-username/email-spam-detection.git
    cd email-spam-detection
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit app:
+2. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
